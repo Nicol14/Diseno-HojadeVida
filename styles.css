@@ -1,0 +1,89 @@
+.contenedor {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+html {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+body {
+  margin: 10%;
+  border-radius: 20%;
+  border-color: black;
+  background-color: rebeccapurple;
+}
+#contenedor2 {
+  background-color: whitesmoke;
+}
+#contenedor1 {
+  background-color: mediumpurple;
+}
+h1 {
+  text-align: center;
+  font-size: xx-large;
+}
+#carrera {
+  color: purple;
+}
+h2 {
+  border-radius: 10px;
+  background-color: purple;
+  width: 200px;
+}
+
+img {
+  width: 100%;
+}
+.caja {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+.cajon {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+#titulo {
+  width: 55%;
+}
+#cajon1 {
+  margin-inline: 20%;
+}
+#caja1 {
+  margin-inline: 20%;
+}
+.fuente {
+  color: purple;
+}
+h3 {
+  text-align: center;
+}
+.contactando {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+#contacto1 {
+  width: 60%;
+}
+#contacto2 {
+  width: 60%;
+}
+#contacto3 {
+  width: 60%;
+}
+#contacto4 {
+  width: 60%;
+}
+.habilidades {
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+}
+#actividad1 {
+  width: 20%;
+}
+#actividad2 {
+  width: 20%;
+}
+#actividad3 {
+  width: 20%;
+}
